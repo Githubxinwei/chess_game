@@ -43,3 +43,6 @@ python xiangqi.py
 - Pygame 2.5.2
 - 面向对象设计
 - 模块化代码结构
+
+我使用的是miniconda python环境 在项目根目录下运行下面命令可以直接运行：
+source venv/bin/activate && python xiangqi.py
